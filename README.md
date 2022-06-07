@@ -2,4 +2,4 @@
 # Python scripts for results processing and automation
 # Leave a note or comments if you change it.
 
-Tanks!
+Thanks!
